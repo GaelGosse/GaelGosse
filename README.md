@@ -1,4 +1,4 @@
-<style>
+<style style="display:none;">
 	*, p{
 		margin:0;
 	}

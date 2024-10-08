@@ -1,11 +1,10 @@
-<p id="style">
 <style style="display:none !important;">
 	*, p{
 		margin:0;
 	}
 	.indications
 	{
-		color: #bbb;
+		color: #f00;
 	}
 	style,
 	#style
@@ -14,7 +13,6 @@
 		opacity: 0 !important;
 	}
 </style>
-</p>
 # Software engineer - 42 School
 
 

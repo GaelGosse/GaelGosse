@@ -1,18 +1,3 @@
-<style style="display:none !important;">
-	*, p{
-		margin:0;
-	}
-	.indications
-	{
-		color: #f00;
-	}
-	style,
-	#style
-	{
-		display: none !important;
-		opacity: 0 !important;
-	}
-</style>
 # Software engineer - 42 School
 
 

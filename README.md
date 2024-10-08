@@ -1,3 +1,4 @@
+<p id="style">
 <style style="display:none !important;">
 	*, p{
 		margin:0;
@@ -6,12 +7,14 @@
 	{
 		color: #bbb;
 	}
-	style
+	style,
+	#style
 	{
 		display: none !important;
 		opacity: 0 !important;
 	}
 </style>
+</p>
 # Software engineer - 42 School
 
 

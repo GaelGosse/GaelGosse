@@ -1,4 +1,4 @@
-<style style="display:none;">
+<style style="display:none !important;">
 	*, p{
 		margin:0;
 	}
@@ -8,8 +8,8 @@
 	}
 	style
 	{
-		display: none;
-		opacity: 0;
+		display: none !important;
+		opacity: 0 !important;
 	}
 </style>
 # Software engineer - 42 School

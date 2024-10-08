@@ -6,6 +6,11 @@
 	{
 		color: #bbb;
 	}
+	style
+	{
+		display: none;
+		opacity: 0;
+	}
 </style>
 # Software engineer - 42 School
 

@@ -23,7 +23,7 @@
 
 <br>
 <br>
-<a href="https://lpiewdprod.com/">Lpiewdprod (Freelance)</a>
+<a href="https://lpiewdprod.com/" target="_blank">Lpiewdprod (Freelance)</a>
 <p class="indications">Showcase website for a video creator</p>
 
 <br>

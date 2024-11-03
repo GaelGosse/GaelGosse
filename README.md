@@ -5,7 +5,7 @@ I then decided to reorient myself towards professional programming training, beg
 Being naturally curious, consistently worked on side projects and explored new topics during my studies. I developed a strong proficiency in scripting (shell script, javascript, and C), which became an essential part of my toolkit for automating tasks and optimizing workflows.
 
 
-### Web Skills
+## Web Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -19,26 +19,31 @@ Being naturally curious, consistently worked on side projects and explored new t
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="PostgreSQL" />
 
 
-### System skills
+## System skills
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/><img src="./icons8-bash.svg" width="36" height="36" alt="Bash"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/>
 
 
 #### actual setup
-IDE: vscode
+IDE: vscode <br>
 OS: manjaro
 
 
-### Proud of
+## Proud of
 
-<a href="https://github.com/GaelGosse/42">42 Cursus</a>
-<a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a>
+<img width="600" src="https://github.com/GaelGosse/GaelGosse/blob/main/42badge.png">
+
+<a href="https://github.com/GaelGosse/42">42 Cursus</a><br>
+<a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a><br>
 <a href="https://lpiewdprod.com">Lpiewdprod</a>
+<div align="center">
+	<img src="href_42cursus.svg" width="106" height="32" alt="css-in-readme">
+</div>
 
 
-### Learning : 
+## Learning :
 
-✅ Linear regression
-⬜ Logistic regression
+✅ Linear regression <br>
+⬜ Logistic regression <br>
 ⬜ Neural network
 
 ⬜ Graph theory

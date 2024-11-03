@@ -5,6 +5,16 @@ I then decided to reorient myself towards professional programming training, beg
 Being naturally curious, consistently worked on side projects and explored new topics during my studies. I developed a strong proficiency in scripting (shell script, javascript, and C), which became an essential part of my toolkit for automating tasks and optimizing workflows.
 
 
+## Proud of
+
+<a href="https://github.com/GaelGosse/42" background="white">
+  <img width="600" src="https://github.com/GaelGosse/GaelGosse/blob/main/42badge.png">
+</a>
+<br>
+<a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a><br>
+<a href="https://lpiewdprod.com">Lpiewdprod</a>
+
+
 ## Web Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -26,17 +36,6 @@ Being naturally curious, consistently worked on side projects and explored new t
 #### actual setup
 - IDE: vscode <br>
 - OS: manjaro
-
-
-## Proud of
-
-<a href="https://github.com/GaelGosse/42" background="white">
-  <img width="600" src="https://github.com/GaelGosse/GaelGosse/blob/main/42badge.png">
-</a>
-<br>
-<a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a><br>
-<a href="https://lpiewdprod.com">Lpiewdprod</a>
-
 
 
 ## Learning :

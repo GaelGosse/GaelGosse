@@ -24,8 +24,8 @@ Being naturally curious, consistently worked on side projects and explored new t
 
 
 #### actual setup
-IDE: vscode <br>
-OS: manjaro
+- IDE: vscode <br>
+- OS: manjaro
 
 
 ## Proud of

@@ -32,12 +32,13 @@ OS: manjaro
 
 <img width="600" src="https://github.com/GaelGosse/GaelGosse/blob/main/42badge.png">
 
-<a href="https://github.com/GaelGosse/42">42 Cursus</a><br>
+[![Badge Likes]][#]
+[![Button Click]][https://github.com/GaelGosse/42]
+<a href="https://github.com/GaelGosse/42" background="white">42 Cursus</a>
+<br>
 <a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a><br>
 <a href="https://lpiewdprod.com">Lpiewdprod</a>
-<div align="center">
-	<img src="href_42cursus.svg" width="106" height="32" alt="css-in-readme">
-</div>
+
 
 
 ## Learning :

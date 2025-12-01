@@ -7,9 +7,6 @@ Being naturally curious, consistently worked on side projects and explored new t
 
 ## Proud of
 
-<a href="https://github.com/GaelGosse/42" background="white">
-  <img width="600" src="https://github.com/GaelGosse/GaelGosse/blob/main/42badge.png">
-</a>
 <br>
 <a href="https://github.com/GaelGosse/shell_function_n_shortcuts">Own Shell Function</a><br>
 <a href="https://lpiewdprod.com">Lpiewdprod</a>
